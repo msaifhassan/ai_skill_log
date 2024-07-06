@@ -1,5 +1,5 @@
 
 
-def move(engine, speed, direction):
+def accelerate(speed):
     # TODO: Implment me
     pass
